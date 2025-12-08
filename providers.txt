@@ -1,0 +1,1 @@
+AWS, AZURE, GCP and OCI
